@@ -6,4 +6,4 @@ Garry's Mod addon which adds a kettle which can boil on a stove top with flame a
 - Optimised effects rendering to scale with FPS (lower FPS, less effects rendered)
 - Effect rendering cutoff distance, when a player is out of range the effects wont render
 
-![Alt text](https://imgur.com/a/y8e610l?raw=true "Circuit Diagram")
+![Alt text](https://i.imgur.com/aviLG8e.jpg?raw=true "Watch Me")
