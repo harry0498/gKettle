@@ -6,6 +6,11 @@ Garry's Mod addon which adds a kettle which can boil on a stove top with flame a
 - Optimised effects rendering to scale with FPS (lower FPS, less effects rendered)
 - Effect rendering cutoff distance, when a player is out of range the effects wont render
 
+## Instructions
+- Spawn kettle entity
+- Spawn oven prop (as seen in images)
+- Place kettle on any hob position and wait
+
 [Watch Me (Imgur)](https://imgur.com/U0lbNUP)
 
 ![gKettle Image 1](https://i.imgur.com/aviLG8e.jpg?raw=true "Heating Up")
